@@ -1,13 +1,14 @@
 tasks = []
 
 while True:
+    print ("____________________________")
     print("Welcome to the to-do list App")
     print("Choose an option:")
     print("1. Add new task")
     print("2. See my tasks")
     print("3. Delete task")
     print("4. Exit")
-
+    print ("_____________________________")
     user_choice = int(input("Enter your choice (1,2,3,4): "))
 
     if user_choice == 1:
