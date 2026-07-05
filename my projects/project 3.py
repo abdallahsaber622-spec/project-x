@@ -50,6 +50,6 @@ if mode == "learn":
     else:
         print("okay bye see you soon ")
 else:
-    print("Invalid choice run again and print time")
+    print("okay ")
 
 
